@@ -1,0 +1,241 @@
+Claim_ID,Claim_Date,Claim_Type,Status,Claim_Amount,Region,Submission_Channel,Customer_Age,Processing_Days
+CLM-10001,2025-11-24,Auto,Approved,7874,South,Phone,58,3
+CLM-10002,2025-02-17,Auto,Approved,5939,West,Online,49,15
+CLM-10003,2025-01-04,Health,Approved,4262,Midwest,Online,69,4
+CLM-10004,2025-07-14,Auto,Approved,8742,South,Mobile App,55,9
+CLM-10005,2025-02-10,Health,Approved,5866,Northeast,Online,66,13
+CLM-10006,2025-04-27,Property,Approved,4313,West,Agent,31,6
+CLM-10007,2025-12-10,Auto,Approved,9473,Midwest,Online,31,7
+CLM-10008,2025-11-24,Health,Approved,3456,South,Online,73,8
+CLM-10009,2025-07-25,Auto,Approved,3528,West,Mobile App,62,7
+CLM-10010,2025-03-13,Auto,Approved,6398,West,Mobile App,44,5
+CLM-10011,2025-09-18,Home,Approved,3271,Midwest,Mobile App,59,9
+CLM-10012,2025-11-02,Liability,Denied,3188,South,Agent,70,3
+CLM-10013,2025-05-31,Home,Approved,2553,Midwest,Phone,61,13
+CLM-10014,2025-09-17,Health,Approved,2123,South,Agent,52,8
+CLM-10015,2025-06-07,Auto,Approved,3773,West,Phone,69,5
+CLM-10016,2025-03-07,Health,Denied,2971,West,Online,55,5
+CLM-10017,2025-06-09,Home,Approved,13147,West,Phone,36,8
+CLM-10018,2025-01-11,Health,Pending,2604,South,Online,25,18
+CLM-10019,2025-02-06,Home,Denied,13460,Midwest,Mobile App,36,8
+CLM-10020,2025-04-08,Auto,Denied,7198,West,Phone,64,12
+CLM-10021,2025-02-20,Auto,Approved,7765,Midwest,Mobile App,29,7
+CLM-10022,2025-08-25,Auto,Pending,9363,South,Phone,62,8
+CLM-10023,2025-02-17,Liability,Pending,10956,West,Online,46,13
+CLM-10024,2025-07-14,Auto,Approved,4998,West,Online,33,3
+CLM-10025,2025-10-24,Health,Pending,1268,West,Online,24,10
+CLM-10026,2025-04-06,Auto,Approved,2356,Midwest,Phone,60,13
+CLM-10027,2025-10-26,Health,Approved,2473,Northeast,Online,37,13
+CLM-10028,2025-11-27,Auto,Approved,4390,South,Phone,55,7
+CLM-10029,2025-03-09,Liability,Approved,7669,Midwest,Mobile App,74,7
+CLM-10030,2025-11-10,Liability,Approved,13942,Northeast,Phone,29,4
+CLM-10031,2025-10-11,Auto,Approved,4108,Midwest,Agent,53,16
+CLM-10032,2025-01-27,Auto,Denied,5269,Midwest,Agent,31,10
+CLM-10033,2025-12-28,Home,Approved,4332,Midwest,Phone,74,11
+CLM-10034,2025-03-17,Home,Denied,7550,South,Agent,34,12
+CLM-10035,2025-02-22,Home,Denied,9158,Midwest,Online,72,8
+CLM-10036,2025-01-13,Auto,Denied,9373,Midwest,Agent,31,3
+CLM-10037,2025-07-15,Property,Denied,2834,West,Agent,40,5
+CLM-10038,2025-04-25,Auto,Denied,3382,South,Agent,43,8
+CLM-10039,2025-12-14,Liability,Pending,17369,Northeast,Online,58,16
+CLM-10040,2025-01-20,Auto,Approved,5359,South,Mobile App,57,3
+CLM-10041,2025-12-29,Home,Approved,11321,Midwest,Agent,48,13
+CLM-10042,2025-06-19,Health,Denied,3260,West,Agent,46,10
+CLM-10043,2025-03-07,Auto,Approved,7247,Midwest,Agent,46,3
+CLM-10044,2025-06-05,Auto,Denied,5321,West,Mobile App,49,10
+CLM-10045,2025-08-31,Property,Pending,1894,Northeast,Phone,73,15
+CLM-10046,2025-12-11,Auto,Denied,8407,Midwest,Mobile App,60,3
+CLM-10047,2025-08-22,Home,Approved,11931,West,Mobile App,46,13
+CLM-10048,2025-12-19,Auto,Approved,7951,West,Phone,56,16
+CLM-10049,2025-03-04,Home,Denied,10112,Northeast,Mobile App,60,10
+CLM-10050,2025-08-07,Property,Denied,7292,West,Mobile App,37,12
+CLM-10051,2025-05-22,Property,Approved,3159,West,Phone,66,7
+CLM-10052,2025-06-21,Auto,Approved,6224,West,Online,66,9
+CLM-10053,2025-07-28,Home,Approved,9312,West,Mobile App,70,14
+CLM-10054,2025-01-11,Property,Approved,5107,Northeast,Agent,69,16
+CLM-10055,2025-08-03,Health,Approved,5741,Midwest,Agent,48,9
+CLM-10056,2025-06-22,Health,Approved,2152,Midwest,Phone,46,13
+CLM-10057,2025-01-14,Auto,Approved,5311,Northeast,Mobile App,41,8
+CLM-10058,2025-06-22,Property,Denied,3266,South,Mobile App,22,2
+CLM-10059,2025-06-29,Auto,Approved,2362,Midwest,Online,74,5
+CLM-10060,2025-05-03,Auto,Approved,7284,Northeast,Agent,31,14
+CLM-10061,2025-02-28,Property,Pending,5940,Northeast,Mobile App,46,14
+CLM-10062,2025-02-08,Health,Pending,2789,Northeast,Phone,71,9
+CLM-10063,2025-06-27,Health,Denied,1364,Northeast,Phone,47,3
+CLM-10064,2025-08-10,Liability,Approved,5885,Northeast,Mobile App,50,14
+CLM-10065,2025-10-31,Auto,Approved,8777,West,Online,69,12
+CLM-10066,2025-12-09,Home,Approved,10598,Midwest,Agent,72,7
+CLM-10067,2025-11-02,Health,Approved,883,South,Online,67,11
+CLM-10068,2025-05-04,Health,Approved,4471,South,Agent,35,6
+CLM-10069,2025-06-06,Health,Denied,5334,West,Agent,43,6
+CLM-10070,2025-06-06,Auto,Denied,2788,Midwest,Online,34,6
+CLM-10071,2025-10-29,Liability,Approved,16641,Midwest,Agent,35,7
+CLM-10072,2025-01-08,Health,Denied,1172,Northeast,Online,61,9
+CLM-10073,2025-02-22,Property,Approved,5121,Northeast,Online,24,16
+CLM-10074,2025-09-02,Auto,Denied,2335,South,Online,30,6
+CLM-10075,2025-02-13,Liability,Pending,12766,Midwest,Mobile App,49,17
+CLM-10076,2025-10-29,Liability,Approved,12988,South,Online,61,13
+CLM-10077,2025-02-11,Auto,Approved,3223,West,Mobile App,65,7
+CLM-10078,2025-01-17,Auto,Denied,7591,Midwest,Agent,71,11
+CLM-10079,2025-12-05,Property,Approved,5661,Midwest,Agent,73,3
+CLM-10080,2025-03-26,Property,Approved,4797,West,Agent,65,7
+CLM-10081,2025-09-14,Health,Approved,5699,West,Agent,59,4
+CLM-10082,2025-04-28,Liability,Denied,15529,Northeast,Phone,69,9
+CLM-10083,2025-09-23,Health,Approved,2286,West,Phone,51,8
+CLM-10084,2025-06-14,Health,Pending,3501,West,Agent,63,9
+CLM-10085,2025-08-21,Auto,Approved,3867,South,Mobile App,47,11
+CLM-10086,2025-07-05,Health,Approved,4421,Midwest,Agent,56,7
+CLM-10087,2025-08-13,Property,Approved,6361,Midwest,Online,40,11
+CLM-10088,2025-07-28,Auto,Approved,8692,Midwest,Mobile App,66,14
+CLM-10089,2025-05-20,Home,Pending,10236,Midwest,Mobile App,33,24
+CLM-10090,2025-03-11,Property,Denied,7652,Northeast,Phone,39,11
+CLM-10091,2025-10-24,Liability,Denied,10935,Northeast,Agent,56,8
+CLM-10092,2025-08-22,Liability,Approved,9274,Midwest,Mobile App,23,10
+CLM-10093,2025-12-28,Liability,Approved,16447,Midwest,Mobile App,23,12
+CLM-10094,2025-06-19,Property,Approved,5508,West,Phone,67,16
+CLM-10095,2025-12-02,Liability,Denied,13211,West,Phone,42,10
+CLM-10096,2025-07-14,Liability,Denied,13116,South,Online,61,6
+CLM-10097,2025-04-27,Health,Denied,5991,South,Mobile App,31,2
+CLM-10098,2025-01-24,Home,Approved,7306,Midwest,Online,54,13
+CLM-10099,2025-04-03,Auto,Approved,2446,Midwest,Mobile App,58,10
+CLM-10100,2025-11-23,Auto,Approved,3891,Northeast,Online,25,8
+CLM-10101,2025-10-28,Auto,Denied,5275,Northeast,Online,45,3
+CLM-10102,2025-05-02,Home,Approved,11917,South,Mobile App,38,16
+CLM-10103,2025-12-18,Property,Denied,8022,Northeast,Online,59,5
+CLM-10104,2025-11-22,Auto,Denied,3853,Midwest,Phone,61,6
+CLM-10105,2025-08-14,Auto,Approved,4788,West,Online,33,11
+CLM-10106,2025-07-07,Health,Pending,2147,West,Agent,68,11
+CLM-10107,2025-08-28,Liability,Denied,14049,West,Agent,26,2
+CLM-10108,2025-05-16,Health,Denied,6311,Northeast,Mobile App,73,7
+CLM-10109,2025-02-25,Health,Approved,5875,Northeast,Online,62,16
+CLM-10110,2025-08-26,Liability,Pending,5290,South,Phone,40,11
+CLM-10111,2025-02-19,Auto,Denied,6203,West,Online,47,9
+CLM-10112,2025-11-12,Home,Pending,3036,West,Mobile App,36,11
+CLM-10113,2025-12-18,Home,Pending,13064,Northeast,Online,28,22
+CLM-10114,2025-02-16,Health,Denied,5691,Northeast,Online,29,5
+CLM-10115,2025-02-05,Property,Approved,2969,Midwest,Agent,70,12
+CLM-10116,2025-01-02,Auto,Pending,2985,Midwest,Phone,63,12
+CLM-10117,2025-01-08,Home,Approved,6398,Midwest,Agent,24,9
+CLM-10118,2025-09-27,Auto,Approved,2320,South,Mobile App,53,12
+CLM-10119,2025-01-23,Health,Denied,5071,South,Phone,51,8
+CLM-10120,2025-12-18,Auto,Approved,7635,Midwest,Phone,29,13
+CLM-10121,2025-10-27,Health,Denied,5693,West,Mobile App,27,3
+CLM-10122,2025-12-02,Health,Denied,2561,Midwest,Mobile App,42,8
+CLM-10123,2025-08-01,Health,Pending,3360,Northeast,Online,64,10
+CLM-10124,2025-02-16,Property,Approved,7299,Northeast,Online,56,11
+CLM-10125,2025-10-15,Home,Approved,9230,West,Phone,39,8
+CLM-10126,2025-02-23,Health,Approved,6179,South,Agent,56,15
+CLM-10127,2025-05-23,Health,Approved,5395,South,Agent,22,14
+CLM-10128,2025-06-08,Liability,Denied,5347,West,Phone,30,2
+CLM-10129,2025-02-16,Health,Denied,4239,Midwest,Agent,40,11
+CLM-10130,2025-11-02,Auto,Approved,2230,South,Phone,38,9
+CLM-10131,2025-09-06,Health,Approved,2565,South,Agent,48,13
+CLM-10132,2025-12-14,Health,Approved,3326,West,Phone,21,6
+CLM-10133,2025-03-12,Property,Approved,1263,West,Online,29,14
+CLM-10134,2025-04-28,Home,Approved,13445,South,Mobile App,22,4
+CLM-10135,2025-06-10,Health,Pending,6044,South,Mobile App,22,13
+CLM-10136,2025-11-13,Home,Approved,8428,South,Online,48,11
+CLM-10137,2025-02-10,Home,Denied,8062,Midwest,Phone,53,10
+CLM-10138,2025-09-19,Auto,Approved,8158,Midwest,Online,27,6
+CLM-10139,2025-03-30,Health,Approved,1417,West,Mobile App,69,12
+CLM-10140,2025-08-18,Health,Approved,6067,Northeast,Agent,30,10
+CLM-10141,2025-08-15,Health,Approved,5644,South,Agent,50,3
+CLM-10142,2025-07-08,Property,Approved,6238,West,Mobile App,58,15
+CLM-10143,2025-01-22,Home,Approved,11866,West,Online,24,15
+CLM-10144,2025-06-25,Liability,Approved,3641,Midwest,Mobile App,49,12
+CLM-10145,2025-03-23,Home,Denied,7134,Northeast,Phone,71,7
+CLM-10146,2025-02-03,Home,Approved,13614,Midwest,Agent,26,5
+CLM-10147,2025-06-29,Auto,Approved,7174,South,Agent,56,15
+CLM-10148,2025-06-18,Property,Approved,1965,West,Agent,22,5
+CLM-10149,2025-04-20,Home,Denied,10467,Midwest,Phone,39,3
+CLM-10150,2025-09-17,Property,Approved,6622,Midwest,Mobile App,30,16
+CLM-10151,2025-12-21,Property,Denied,1557,Northeast,Online,49,9
+CLM-10152,2025-04-30,Health,Approved,2389,West,Mobile App,70,9
+CLM-10153,2025-09-15,Health,Approved,5753,Northeast,Phone,62,8
+CLM-10154,2025-10-11,Liability,Pending,4374,Midwest,Agent,49,12
+CLM-10155,2025-08-12,Auto,Approved,9258,South,Mobile App,24,8
+CLM-10156,2025-05-01,Home,Approved,8642,South,Agent,71,3
+CLM-10157,2025-05-27,Liability,Approved,14559,West,Mobile App,60,4
+CLM-10158,2025-01-10,Auto,Approved,8640,West,Phone,70,7
+CLM-10159,2025-03-04,Auto,Approved,5239,South,Mobile App,59,13
+CLM-10160,2025-09-21,Health,Approved,3186,Northeast,Online,57,13
+CLM-10161,2025-12-09,Auto,Approved,4754,South,Mobile App,51,9
+CLM-10162,2025-07-11,Auto,Approved,1933,South,Agent,29,11
+CLM-10163,2025-06-23,Property,Denied,6896,Midwest,Online,25,9
+CLM-10164,2025-01-19,Auto,Approved,2158,West,Mobile App,37,13
+CLM-10165,2025-04-08,Auto,Pending,8862,South,Agent,48,22
+CLM-10166,2025-07-17,Home,Approved,10629,Northeast,Phone,67,9
+CLM-10167,2025-11-05,Liability,Approved,4680,South,Agent,63,10
+CLM-10168,2025-11-05,Health,Pending,4436,South,Agent,60,16
+CLM-10169,2025-11-24,Liability,Approved,9655,Northeast,Online,22,12
+CLM-10170,2025-12-14,Property,Pending,3133,Northeast,Agent,45,9
+CLM-10171,2025-11-06,Auto,Approved,5485,South,Online,54,8
+CLM-10172,2025-11-29,Auto,Denied,2729,West,Phone,37,9
+CLM-10173,2025-04-20,Liability,Approved,5009,Midwest,Phone,49,14
+CLM-10174,2025-08-16,Liability,Denied,8692,South,Agent,40,12
+CLM-10175,2025-03-31,Property,Approved,2846,Midwest,Online,71,8
+CLM-10176,2025-10-11,Health,Approved,1863,South,Phone,40,14
+CLM-10177,2025-09-03,Health,Approved,5509,Northeast,Phone,49,11
+CLM-10178,2025-06-26,Auto,Pending,8591,Midwest,Mobile App,53,9
+CLM-10179,2025-03-05,Home,Pending,5197,Midwest,Agent,54,10
+CLM-10180,2025-05-09,Auto,Pending,6312,South,Online,58,12
+CLM-10181,2025-03-29,Health,Approved,3565,South,Phone,26,13
+CLM-10182,2025-10-23,Auto,Approved,3526,South,Mobile App,61,13
+CLM-10183,2025-06-04,Home,Approved,13722,South,Phone,31,10
+CLM-10184,2025-08-26,Auto,Approved,6769,Northeast,Agent,46,8
+CLM-10185,2025-09-21,Health,Approved,4621,West,Online,30,7
+CLM-10186,2025-07-16,Property,Approved,7864,Northeast,Online,69,11
+CLM-10187,2025-08-28,Home,Approved,10648,West,Online,34,3
+CLM-10188,2025-01-26,Auto,Approved,6694,South,Phone,48,7
+CLM-10189,2025-07-07,Property,Approved,1619,Midwest,Agent,56,9
+CLM-10190,2025-09-16,Home,Approved,7082,South,Online,27,15
+CLM-10191,2025-06-23,Health,Approved,2430,West,Phone,23,14
+CLM-10192,2025-06-20,Property,Approved,6166,Midwest,Agent,60,9
+CLM-10193,2025-11-12,Health,Denied,3555,West,Agent,51,7
+CLM-10194,2025-06-19,Health,Pending,3320,South,Mobile App,37,15
+CLM-10195,2025-01-27,Health,Denied,5952,West,Online,73,2
+CLM-10196,2025-10-21,Liability,Denied,8139,West,Online,47,8
+CLM-10197,2025-09-14,Property,Approved,6981,Midwest,Agent,63,9
+CLM-10198,2025-06-10,Liability,Pending,8804,Northeast,Mobile App,33,16
+CLM-10199,2025-10-13,Auto,Approved,4238,West,Agent,51,15
+CLM-10200,2025-05-21,Auto,Denied,6497,West,Agent,70,6
+CLM-10201,2025-01-22,Auto,Approved,7650,Northeast,Mobile App,34,11
+CLM-10202,2025-05-19,Liability,Denied,13087,Midwest,Online,24,10
+CLM-10203,2025-04-26,Health,Denied,4185,West,Phone,64,2
+CLM-10204,2025-10-09,Liability,Approved,17391,West,Mobile App,62,7
+CLM-10205,2025-06-14,Auto,Pending,2284,South,Online,47,13
+CLM-10206,2025-01-19,Liability,Approved,17291,Northeast,Phone,21,12
+CLM-10207,2025-02-24,Liability,Approved,11901,West,Online,53,6
+CLM-10208,2025-02-27,Home,Approved,10018,Midwest,Phone,68,7
+CLM-10209,2025-10-18,Health,Approved,5804,West,Mobile App,53,9
+CLM-10210,2025-12-09,Auto,Approved,2951,Northeast,Mobile App,36,7
+CLM-10211,2025-06-18,Auto,Denied,7721,Northeast,Online,24,9
+CLM-10212,2025-06-07,Auto,Approved,7420,Northeast,Agent,60,5
+CLM-10213,2025-09-02,Auto,Approved,7925,West,Online,69,15
+CLM-10214,2025-11-02,Property,Approved,5526,Northeast,Phone,57,16
+CLM-10215,2025-10-08,Liability,Denied,5695,Northeast,Mobile App,28,11
+CLM-10216,2025-09-08,Auto,Approved,5980,West,Mobile App,57,10
+CLM-10217,2025-12-11,Property,Approved,3284,South,Online,58,9
+CLM-10218,2025-06-26,Health,Denied,1365,Northeast,Mobile App,32,12
+CLM-10219,2025-11-27,Liability,Denied,17856,West,Mobile App,26,12
+CLM-10220,2025-10-04,Auto,Pending,8847,West,Online,67,8
+CLM-10221,2025-01-12,Liability,Approved,11715,West,Online,36,5
+CLM-10222,2025-05-22,Auto,Approved,8969,West,Phone,36,4
+CLM-10223,2025-11-01,Auto,Approved,6697,South,Mobile App,49,6
+CLM-10224,2025-01-29,Auto,Pending,4169,Northeast,Online,40,24
+CLM-10225,2025-04-24,Home,Approved,3498,Midwest,Mobile App,56,8
+CLM-10226,2025-11-26,Health,Approved,3411,West,Online,40,15
+CLM-10227,2025-10-03,Home,Approved,6192,Midwest,Mobile App,24,9
+CLM-10228,2025-10-13,Health,Approved,2888,South,Mobile App,44,14
+CLM-10229,2025-04-08,Auto,Denied,4889,South,Online,72,12
+CLM-10230,2025-10-14,Auto,Pending,3511,Midwest,Phone,68,23
+CLM-10231,2025-05-05,Health,Approved,4049,Northeast,Agent,45,13
+CLM-10232,2025-07-03,Auto,Approved,4746,West,Agent,34,9
+CLM-10233,2025-01-24,Health,Approved,932,West,Agent,30,6
+CLM-10234,2025-07-14,Health,Denied,5310,Northeast,Agent,69,12
+CLM-10235,2025-09-09,Home,Pending,8270,West,Online,55,9
+CLM-10236,2025-09-26,Auto,Denied,8736,South,Mobile App,29,5
+CLM-10237,2025-02-04,Health,Approved,4942,South,Mobile App,63,3
+CLM-10238,2025-09-30,Health,Denied,5136,Northeast,Phone,53,12
+CLM-10239,2025-08-09,Property,Denied,1989,Midwest,Online,33,6
+CLM-10240,2025-07-01,Auto,Denied,5051,Midwest,Online,40,3
